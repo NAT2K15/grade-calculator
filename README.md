@@ -2,6 +2,8 @@
 
 A powerful, interactive command-line grade calculator for students and teachers. Supports weighted categories, assignment management, and flexible input formats.
 
+![](https://i.imgur.com/ID7KDnU.png)
+
 ## Features
 
 - **Simple Grade Calculator**: Enter grades to get average, sum, and assessment.
